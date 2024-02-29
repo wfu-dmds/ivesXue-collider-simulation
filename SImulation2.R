@@ -1,4 +1,4 @@
-# Assuming the original setup is already define
+# Assuming the original setup is already defined
 # Modifying the data generation function in Box 3 to include early measurements
 
 generateData <- function(n, seed){
