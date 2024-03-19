@@ -1,5 +1,4 @@
 # Step 1: Install and Load Necessary Libraries
-# You may need to install packages using install.packages() if you haven't already.
 library(visreg)     # To visualize regression output
 library(ggplot2)    # For general plotting
 library(gridExtra)  # To combine plots
